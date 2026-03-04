@@ -1,0 +1,7 @@
+Git : Git is a tool that allows to version control System(VCS) that allow you to version code version your files.
+Git is VCS that gives you whenever your code was modify, created, deleted and timestamp.
+
+
+
+
+
